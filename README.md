@@ -1,5 +1,6 @@
 # Weather-Dashboard
-this app allows the user to:
+
+## This app allows the user to:
 
 * search for a city 
 * get the forecast for the current day
@@ -7,4 +8,9 @@ this app allows the user to:
 * keep a search log of cities that they have already looked at
 * clear that search log
 
-# this was achived with HTML, AJAX, CSS, BOOTSTRAP, JQuery, and Javascript. 
+## This was achived with HTML, AJAX, CSS, BOOTSTRAP, JQuery, and Javascript. 
+
+<a href = "https://github.com/Drop-G/Weather-Dashboard" alt = "link to Weather-Dashboard repository"> GitHub Repository Link </a>
+
+![github](images/ScreenshotWeatherApp.png)
+

@@ -1,6 +1,13 @@
 body {
-    background:url("images/weatherAppBg.png") no-repeat fixed;
+    background:url(images/cardbg.png) no-repeat fixed;
     background-size: cover;
+
+  }
+  
+.cardbg {
+    background:url(images/cardbg.png) no-repeat fixed;
+    background-size: cover;
+
   }
 
 .hide  {

@@ -8,9 +8,9 @@
 * keep a search log of cities that they have already looked at
 * clear that search log
 
-## This was achived with HTML, AJAX, CSS, BOOTSTRAP, JQuery, and Javascript. 
+Technologies used were AJAX, BOOTSTRAP, and JQuery. 
 
 <a href = "https://github.com/Drop-G/Weather-Dashboard" alt = "link to Weather-Dashboard repository"> GitHub Repository Link </a>
 
-![github](images/ScreenshotWeatherApp.png)
+![github](./assets/images/weather.png)
 

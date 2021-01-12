@@ -8,7 +8,7 @@
 * keep a search log of cities that they have already looked at
 * clear that search log
 
-Technologies used were AJAX, BOOTSTRAP, and JQuery. 
+Technologies used were openweathermap API, ajax, bootstrap, and JQuery. 
 
 <a href = "https://github.com/Drop-G/Weather-Dashboard" alt = "link to Weather-Dashboard repository"> GitHub Repository Link </a>
 
